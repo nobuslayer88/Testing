@@ -1,8 +1,9 @@
-testing, someone needs to make changes below but not the middle line:
 
 
+no i am the leader and I am making changes
 
 
+<<<<<<< Updated upstream
 
 7
 
@@ -15,5 +16,7 @@ testing, someone needs to make changes below but not the middle line:
 11
 
 12
+=======
+>>>>>>> Stashed changes
 
 13
